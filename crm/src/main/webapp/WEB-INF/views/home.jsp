@@ -7,6 +7,11 @@
 <title>Customer Management</title>
 </head>
 <body>
-	<h1>Customer Management</h1>
+	<div>
+		<h1>Customer Management</h1>
+	</div>
+	<div>
+		<h3>Customers loading</h3>
+	</div>
 </body>
 </html>
