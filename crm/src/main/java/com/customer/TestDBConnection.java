@@ -1,4 +1,4 @@
-package com.crm.testDb;
+package com.customer;
 
 import java.io.PrintWriter;
 import java.sql.Connection;
